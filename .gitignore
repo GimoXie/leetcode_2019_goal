@@ -1,0 +1,26 @@
+##class file##
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so
+*.iml
+*.orig
+*.war
+*.MF
+*.suo
+
+##ignore this file##
+out
+target
+__ConfigTemp
+.classpath
+.project
+.settings
+.idea
+    
+##filter databfile##
+*.mdb  
+*.ldb
+/OSDOnlineService/OSDOnlineService/obj/Debug/*.cache
